@@ -1,0 +1,2 @@
+提升到了 Test data | Accuracy: 92.03 %, Loss: 7.969
+相比之前下降了1%
