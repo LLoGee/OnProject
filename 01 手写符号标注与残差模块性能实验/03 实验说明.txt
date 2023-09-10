@@ -13,9 +13,9 @@
 
 2 在不改动数据集，只针对baseline进行Residual module添加与修改实验
 	修改部分有
-		Residual module 通道数量，即宽度
-		每个通道的卷积核的尺寸
-		每个通道卷积核的数量
+		Residual module 分支数量，即宽度
+		每个分支的卷积核的尺寸
+		每个分支卷积核的数量
 
 3 最终实验结果
 
