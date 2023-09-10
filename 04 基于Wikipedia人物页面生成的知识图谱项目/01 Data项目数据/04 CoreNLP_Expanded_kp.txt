@@ -1,0 +1,26 @@
+John McCarthy*	per:origin	American
+John McCarthy*	per:origin	Lithuanian
+John McCarthy*	per:children	John Patrick McCarthy
+John McCarthy*	per:city_of_birth	Boston
+John McCarthy*	per:stateorprovince_of_birth	Massachusetts
+John McCarthy*	per:origin	Irish
+John McCarthy*	per:religion	Jewish
+John McCarthy*	per:parents	John Patrick McCarthy
+John McCarthy*	per:employee_or_member_of	Communist Party
+John McCarthy*	per:schools_attended	Belmont High School
+John McCarthy*	per:employee_or_member_of	Caltech
+John McCarthy*	per:employee_or_member_of	US Army
+John McCarthy*	per:schools_attended	Caltech
+John McCarthy*	per:employee_or_member_of	Association for Computing Machinery
+Project MAC	org:parents	MIT
+John McCarthy*	per:title	reader
+Vera Watson	per:title	programmer
+Vera Watson	per:date_of_death	1978
+Vera Watson	per:title	mountaineer
+Carolyn Talcott	per:employee_or_member_of	Stanford
+Carolyn Talcott	per:spouse	John McCarthy
+John McCarthy*	per:spouse	Carolyn Talcott
+John McCarthy*	per:employee_or_member_of	Stanford
+Carolyn Talcott	per:title	computer scientist
+John McCarthy*	per:religion	atheist
+John McCarthy*	per:city_of_death	Stanford

@@ -1,0 +1,3 @@
+该预训练模型使用的是 huggging-face 上的 T5-small模型
+	链接：https://huggingface.co/t5-small/tree/main
+将 tf_model.t5(tensorflow版本) 下载到当前文件夹即可
