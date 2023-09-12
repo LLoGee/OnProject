@@ -1,0 +1,8 @@
+关于所有文件储存内容含义：
+	此文件夹删除了02 BERTopic_model.model，由于文件过大，无法上传github
+
+01 LDA_model.model			# LDA模型的数据，用于主题可视化
+02 BERTopic_model.model			# 用于Bertopic抽取的结果的可视化
+03 Anchored_CorEx_Train_model.model		# 保存好的 CorEx 模型，用于数据的主题标记
+04 LDA_model.dict				# LDA模型的词典，用于主题可视化
+05 LDA_model.corpus			# LDA模型的语料库，用于主题可视化

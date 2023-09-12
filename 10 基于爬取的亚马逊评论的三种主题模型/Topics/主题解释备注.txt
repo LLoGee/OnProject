@@ -1,0 +1,7 @@
+关于所有文件储存内容含义：
+
+01 LDA_topics.xlsx			# 为LDA模型生成的主题，主题数设置为36，每个主题最多10个词语
+02 BERT_topics.xlsx			# Bertopic模型所抽取的主题，此处仅保存了前100个主题
+03 CorEx_labelled_aspect.xlsx		# 对数据进行主题标记，总共6个主题
+04 Training_topics.xlsx		# 手动准备好的 Topic，用于Corex 半监督模型的主题抽取，总共6个主题
+05 Anchored_CorEx_topics.xlsx	# CorEx模型在 training_topics 上基于数据集完善的主题
