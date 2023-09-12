@@ -1,8 +1,0 @@
-此项目使用的数据集为 IMDB movie 评论数据集：
-	链接：https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-
-该路径下的两个 7zip 压缩文件为根据该数据集生成的
-	详情看代码部分即可理解
-count_data	# 根据 Count_vectorizer 模型生成的表示数据
-Tfidf_data		# 根据 Tfidf_vectorizer 模型生成的表示数据
-
