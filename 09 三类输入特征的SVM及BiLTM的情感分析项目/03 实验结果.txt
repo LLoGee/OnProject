@@ -1,3 +1,5 @@
+整个项目代码运行在 google Colab 中
+
 对于4类模型 SVM_CountVectorizer，SVM_TfidfVectorizer，CBOW_BiLSTM_model，Skipgram_BiLSTM_model
 	四者最终的性能表现差异相近，测试集上均为 0.89
 BiLSTM 的模型参大于 SVM
