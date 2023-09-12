@@ -1,0 +1,9 @@
+
+01 Rebel_Entities.csv		# Rebel 生成的所有实体
+01 Rebel_Relations			# Rebel 生成的所有关系对
+
+02 CoreNLP_expanded_Entities.csv	# CoreNLP 补充的实体
+02 CoreNLP_expanded_Relations.csv	# CoreNLP 补充的关系对
+
+03 Merged_Entities.csv		# 合并的实体
+03 Merged_Relations.csv		# 合并的关系对

@@ -1,0 +1,14 @@
+根据 pyvis 生成的知识图谱比较简单，没有查找功能
+	根据 Neo4j 生成的知识图谱，在该软件中有查询的功能等
+
+# 通过 pyvis 生成的知识图谱
+01 Stage_one.html		# 没有将 Stranded CoreNLP 生成的关系对合并到 Rebel 的生成结果
+01 Stage_two.html		# 将 Stranded CoreNLP 生成的关系对合并到 Rebel 的生成结果
+
+# 通过 Neo4j 基于 抽取到的实体关系对生成的知识图谱
+02 Stage_one_Neo4j.svg	# 没有将 Stranded CoreNLP 生成的关系对合并到 Rebel 的生成结果
+02 Stage_two_Neo4j.svg	# 将 Stranded CoreNLP 生成的关系对合并到 Rebel 的生成结果
+
+# Neo4j 生成的知识图谱软件界面截图
+03 Neo4j_Screenshot_one.jpg	# 阶段 one 截图
+03 Neo4j_Screenshot_two.jpg	# 阶段 two 截图

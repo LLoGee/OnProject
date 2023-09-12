@@ -1,0 +1,6 @@
+
+01 Data.txt			# 该文件为经过对 raw text 手动共指消解后的文本
+02 Source_text_file.txt		# Wikipedia 上的原文本，关于 John McCarthy 
+03 Data_CoreNLP.txt		# CoreNLP 对原文本进行实体关系抽取的结果
+04 04 CoreNLP_Expanded_kp.txt	# 筛选来自 Data_CoreNLP.txt 的实体关系对
+05 Rebel.kb			# Rebel 模型生成的 kb 文件，用于知识图谱的生成
