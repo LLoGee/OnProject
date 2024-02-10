@@ -1,0 +1,8 @@
+{
+    "micro_precision": "0.8173",
+    "micro_recall": "0.8619",
+    "micro_f1": "0.8390",
+    "macro_precision": "0.7720",
+    "macro_recall": "0.7673",
+    "macro_f1": "0.7696"
+}
